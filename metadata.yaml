@@ -1,0 +1,38 @@
+_repo: Isis-unveiled-Volume-2-of-2-Theology-b-A-master-key-to-the-mysteries-of-ancient-and-modern-sc__75871
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blavatsky, H. P. (Helena Petrovna)
+    aliases:
+    - Blavatsky, Helena Petrovna
+    - Blavatski, H. P.
+    - Blavatski, Yelena Petrovna
+    - Блаватская, Е. П. (Елена Петровна)
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '2154'
+    url: http://www.gutenberg.org/2009/agents/2154
+    wikipedia: https://en.wikipedia.org/wiki/Helena_Blavatsky
+description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/Isis_Unveiled'
+gutenberg_issued: '2025-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75871'
+language: en
+pgterms:marc905: 20170508194651blavatsky
+pgterms:marc906: '1878'
+pgterms:marc907: us
+production_note: Carol Brown, David Edwards and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bJ. W. Bouton, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcc 'BP'
+- GITenberg
+title: 'Isis unveiled, Volume 2 (of 2), Theology : $b A master-key to the mysteries
+  of ancient and modern science and theology'
+url: http://www.gutenberg.org/ebooks/75871
