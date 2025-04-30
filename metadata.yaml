@@ -1,5 +1,8 @@
 _repo: Isis-unveiled-Volume-2-of-2-Theology-b-A-master-key-to-the-mysteries-of-ancient-and-modern-sc__75871
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75871-h/images/bluecover.jpg
 creator:
   author:
     agent_name: Blavatsky, H. P. (Helena Petrovna)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2154
     wikipedia: https://en.wikipedia.org/wiki/Helena_Blavatsky
 description: 'Wikipedia page about this book: https://en.wikipedia.org/wiki/Isis_Unveiled'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75871#Isis-unveiled-Volume-2-of-2-Theology-b-A-master-key-to-the-mysteries-of-ancient-and-modern-sc_
 gutenberg_issued: '2025-04-15'
 gutenberg_type: Text
 identifiers:
